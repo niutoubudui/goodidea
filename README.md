@@ -1,1 +1,2 @@
 # goodidea
+About good idea.
